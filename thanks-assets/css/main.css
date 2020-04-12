@@ -3527,3 +3527,6 @@ input, select, textarea {
 .icons a:hover, a:focus, a:active, a:visited, a:link{
     text-decoration: none;
 }
+.button {
+	margin-top: 40px;
+}
