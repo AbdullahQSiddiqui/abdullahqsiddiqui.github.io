@@ -1,6 +1,6 @@
 # Abdullah Siddiqui's Portfolio
 
-<a href="https://abdullahqsiddiqui.tech">abdullahqsiddiqui.tech</a>
+<a href="https://abdullahqsiddiqui.github.io">abdullahqsiddiqui.github.io</a>
 
 <p>Contact Me:</p>
 <ul>
